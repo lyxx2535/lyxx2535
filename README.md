@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on LLM Alignment、Agent and Agentic RL.
+- 🔭 I’m currently working on LLM Alignment, Agent and Agentic RL.
 - 💬 Blog: https://lyxx2535.github.io/
 - 📫 How to reach me: liuyuexiao0305@gmail.com
   
